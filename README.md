@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Project is made on Flutter using Dart. This Project is showing weather of Your current Location as well as if you want to search weather of any City then you can do that also go on search and type City name. Also if you want to again know the weather of your location then Refresh it by pressing on the above left side icon. Also tells you the current exact Time, Date and Day 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/1b048755-4ed0-422d-933a-450fffa18239
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
